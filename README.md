@@ -11,7 +11,7 @@ An intervertebral disc may be degenerating
 About this Dataset
 310 Observations, 13 Attributes (12 Numeric Predictors, 1 Binary Class Attribute - No Demographics)
 
-The data has been taken from Kaggle competition "https://www.kaggle.com/sammy123/lower-back-pain-symptoms-dataset" Codes are also referred from kaggle notebooks.
+The data has been taken from Kaggle competition "https://www.kaggle.com/sammy123/lower-back-pain-symptoms-dataset" Codes are also referred from some of the kaggle notebooks.
 
 Lower Back Pain
 Low back pain is very normal now a days. Starting from old people to almost the IT people are suffering from back pain due to irregular sitting posture.
